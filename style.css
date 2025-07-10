@@ -118,3 +118,51 @@ nav h1{
     font-weight: bold;
     cursor:pointer;
 }
+.user-section{
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    text-align: center;
+    background-color:rgba(78, 71, 255, 0.1);
+    width: 1140px;
+    padding:10px 10px;
+    margin:0 auto;
+    border-radius: 35px;
+    line-height: 1.2px;
+
+  
+    /* opacity: 0.1; */
+
+
+}
+.title h3{
+    color:#252432;
+    padding: 0 auto;
+    margin:50px 142px;
+    text-align: center;
+    font-size:38px;
+}
+
+
+.subtitle{
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    color:#4E47FF;
+    font-size: 50px;
+   
+}
+.main-subtitle{   
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+.sub-p{
+       background-color:rgba(78, 71, 255, 0.1);
+       padding: 0 auto;
+
+
+}
