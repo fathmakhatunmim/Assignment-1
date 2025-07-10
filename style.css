@@ -43,6 +43,7 @@ nav h1{
     height:50px ;
     width:132px;
     font-weight: bold;
+    cursor: pointer;
     
 }
 /* header */
@@ -74,8 +75,46 @@ nav h1{
     font-weight:500;
     padding:12px 36px ;
     text-align: center;
+    cursor: pointer;
   
 }
 .banner{
     text-align: center;
+}
+.action-section{
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    gap:200px;
+    padding:100px 100px;
+    margin:0 auto;
+
+
+}
+.Right-side img{
+    border-radius: 48px;
+    width: 100%;
+    max-width: 403px;
+    height: auto;
+}
+
+.left-side p{
+       color: #252432;
+       opacity: 0.7;
+       max-width: 500px;
+    
+}
+
+
+.btn-3{
+    color: white;
+    background-color: #4E47FF;
+    border-radius: 10px;
+    padding: 12px 36px;
+    border: none;
+    height:50px ;
+    width:220px;
+    font-weight: bold;
+    cursor:pointer;
 }
